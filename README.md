@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Basisthstat (Basisth Saha).
-- 👀 I’m interested in Data science concepts
-- 🌱 I’m currently learning Statistics
+- 👀 I’m interested in Statistics, AI/ML concepts
+- 🌱 I’m currently studying Statistics
 - 📫 reach me at my mail id - basisths88@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: nothing, my fun fact may not be fun to you...it's subjective isn't it.
